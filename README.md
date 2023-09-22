@@ -16,7 +16,7 @@ Como mencioné, soy un estudiante entusiasta que se encuentra inmerso en el emoc
 
 ## Contacto
 
-Si deseas ponerse en contacto conmigo, ¡no dudes en hacerlo! Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración. Puedes encontrarme en [mi perfil de GitHub](https://github.com/TuNombreDeUsuario) o a través de mi dirección de correo electrónico: [tu@email.com](mailto:tu@email.com).
+Si deseas ponerse en contacto conmigo, ¡no dudes en hacerlo! Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración. Puedes encontrarme en [mi perfil de GitHub](https://github.com/nehemimosqueda520) o a través de mi dirección de [correo electronico](mailto:nehemimosqueda8@gmail.com).
 
 ¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y seguimos en contacto para futuras aventuras en el mundo de la programación y los videojuegos. 🚀🎮
 
