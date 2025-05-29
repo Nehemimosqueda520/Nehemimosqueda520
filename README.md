@@ -1,22 +1,21 @@
-# Bienvenido a mi perfil 👋
+# Welcome to My Profile 👋
 
-¡Hola! Soy DAN, un apasionado estudiante de Producción de Videojuegos y Entretenimiento Digital. Mi camino en la industria de la programación y el desarrollo de videojuegos está en constante crecimiento y evolución.
+Hello! I’m DAN, a dedicated student specializing in Video Game Production and Digital Entertainment. I’m on an exciting journey in the world of programming and game development, continuously growing and evolving my skills.
 
-## Acerca de mí
+## About Me
 
-Como mencioné, soy un estudiante entusiasta que se encuentra inmerso en el emocionante mundo de la producción de videojuegos y el entretenimiento digital. Mi enfoque principal actualmente se centra en el lenguaje de programación JavaScript, aunque no me limito a un solo lenguaje, ya que me encanta aprender y adaptarme a nuevas tecnologías y lenguajes de programación.
+I'm currently focused on learning and applying JavaScript, though I'm always eager to explore new languages and technologies. My passion lies in creating engaging digital experiences, and I'm committed to expanding my knowledge in all areas of game and interactive media development.
 
-## Mis intereses
+## Areas of Interest
 
-- 🎮 Desarrollo de videojuegos
-- 💻 Programación web y aplicaciones interactivas
-- 🚀 Exploración de nuevas tecnologías y tendencias
-- 🌐 Creación de contenido digital
+- 🎮 Video game development  
+- 💻 Web development and interactive applications  
+- 🚀 Exploring emerging technologies and industry trends  
+- 🌐 Digital content creation  
 
+## Get in Touch
 
-## Contacto
+I'm always open to new opportunities for learning, collaboration, or simply connecting with others in the tech and gaming communities.  
+Feel free to reach out via [GitHub](https://github.com/nehemimosqueda520) or [email](mailto:nehemimosqueda8@gmail.com).
 
-Si deseas ponerse en contacto conmigo, ¡no dudes en hacerlo! Estoy siempre abierto a nuevas oportunidades de aprendizaje y colaboración. Puedes encontrarme en [mi perfil de GitHub](https://github.com/nehemimosqueda520) o a través de mi dirección de [correo electronico](mailto:nehemimosqueda8@gmail.com).
-
-¡Gracias por visitar mi perfil! Espero que disfrutes explorando mis proyectos y seguimos en contacto para futuras aventuras en el mundo de la programación y los videojuegos. 🚀🎮
 
